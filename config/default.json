@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://Admin:Admin@cluster0.ltabh.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "Admin"
+}

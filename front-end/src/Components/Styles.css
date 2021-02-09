@@ -1,0 +1,27 @@
+.hid {
+  display: none;
+}
+
+.vis {
+  display: block;
+  color: red;
+}
+
+body {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  font-size: 1rem;
+  line-height: 1.6;
+  background-color: #fff;
+  color: #333;
+}
+
+.hidden {
+  display: none;
+}
+
+.display {
+  display: inline-block;
+}
+
